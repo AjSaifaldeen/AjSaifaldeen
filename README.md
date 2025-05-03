@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AjSaifaldeen
 - 👀 I’m interested in learning programming languages such as C, Objective-c and Swift
-- 🌱 I’m currently learning iOS development in Kodco bootcamp
+- 🌱 I’m currently learning iOS development in Kodeco bootcamp
 - 💞️ I’m looking to collaborate on Swift appliction
 - 📫 How to reach me ab.saifaldeen@icloud.com
 - 😄 Pronouns: he/him
